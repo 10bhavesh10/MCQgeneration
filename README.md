@@ -25,3 +25,7 @@ This project explores the application of **Natural Language Processing (NLP)** t
 - Integrate the MCQ generation functionality into an interactive educational platform or assessment tool.
 - Explore more advanced techniques for distractor generation, such as leveraging language models or contextual information.
 - Enhance the Gradio UI with additional features, such as the ability to save and load article data, export generated content, and provide more customization options.
+
+# Output
+
+![correct answer](./output/correct_answer.png)

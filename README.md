@@ -27,9 +27,10 @@ This project explores the application of **Natural Language Processing (NLP)** t
 - Enhance the Gradio UI with additional features, such as the ability to save and load article data, export generated content, and provide more customization options.
 
 # Output
-### Correct Answer
-<img src="./output/correct_answer.png" alt="correct_answer" width="1000"/>
+## Correct Answer
+<img src="./output/correct_answer.png" alt="correct_answer" width="900"/>
 
-<br><br><br>
+<br><br>
 
-### Wrong Answer
+## Wrong Answer
+<img src="./output/wrong_answer.png" alt="wrong_answer" width="900"/>

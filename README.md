@@ -5,11 +5,11 @@ This project explores the application of **Natural Language Processing (NLP)** t
 
 # Key Features:
 
-- Text Preprocessing: Implemented various text cleaning and transformation methods, including HTML tag removal, punctuation removal, tokenization, stopword removal, stemming, and lemmatization.
-- Text Summarization: Utilized the BART transformer model to generate concise summaries of the input articles.
-- Keyword Extraction: Employed the KeyBERT library to identify the most relevant keywords from the article summaries.
-- MCQ Generation: Developed a custom MCQgenerator class to create multiple-choice questions based on the extracted keywords. The questions include a masked keyword, the correct answer, and distractors generated using WordNet relationships.
-- Gradio UI: Designed a Gradio-based user interface to make the application accessible and user-friendly. The UI allows users to input articles, view the generated summaries, keywords, and MCQs, and interact with the various functionalities.
+- **Text Preprocessing**: Implemented various text cleaning and transformation methods, including HTML tag removal, punctuation removal, tokenization, stopword removal, stemming, and lemmatization.
+- **Text Summarization**: Utilized the BART transformer model to generate concise summaries of the input articles.
+- **Keyword Extraction**: Employed the KeyBERT library to identify the most relevant keywords from the article summaries.
+- **MCQ Generation**: Developed a custom MCQgenerator class to create multiple-choice questions based on the extracted keywords. The questions include a masked keyword, the correct answer, and distractors generated using WordNet relationships.
+- **Gradio UI**: Designed a Gradio-based user interface to make the application accessible and user-friendly. The UI allows users to input articles, view the generated summaries, keywords, and MCQs, and interact with the various functionalities.
 
 
 # Usage

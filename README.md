@@ -28,4 +28,4 @@ This project explores the application of **Natural Language Processing (NLP)** t
 
 # Output
 
-![correct answer](./output/correct_answer.png)
+![correct answer](./output/correct_answer.png=250x)

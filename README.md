@@ -4,6 +4,7 @@
 This project explores the application of natural language processing (NLP) techniques to automatically summarize articles and generate multiple-choice questions (MCQs) from the content.
 
 # Key Features:
+-Item 1
 Text Preprocessing: Implemented various text cleaning and transformation methods, including HTML tag removal, punctuation removal, tokenization, stopword removal, stemming, and lemmatization.
 Text Summarization: Utilized the BART transformer model to generate concise summaries of the input articles.
 Keyword Extraction: Employed the KeyBERT library to identify the most relevant keywords from the article summaries.

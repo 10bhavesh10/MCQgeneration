@@ -30,7 +30,5 @@ This project explores the application of **Natural Language Processing (NLP)** t
 ## Correct Answer
 <img src="./output/correct_answer.png" alt="correct_answer" width="900"/>
 
-<br><br>
-
 ## Wrong Answer
 <img src="./output/wrong_answer.png" alt="wrong_answer" width="900"/>

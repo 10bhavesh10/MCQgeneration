@@ -1,0 +1,14 @@
+numpy==1.23.5
+pandas==1.5.3
+nltk==3.8.1
+bs4==0.0.1
+scikit-learn==1.2.2
+gensim==4.3.1
+transformers==4.38.2
+torch==2.2.1+cu121
+datasets==2.18.0
+sacrebleu==2.4.1
+rouge_score==0.1.2
+sense2vec==2.0.2
+keybert==0.8.4
+gradio==3.5.0

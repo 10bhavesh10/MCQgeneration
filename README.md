@@ -1,7 +1,7 @@
 # NLP-Powered Article Summarization and MCQ Generation
 
 
-This project explores the application of natural language processing (NLP) techniques to automatically summarize articles and generate multiple-choice questions (MCQs) from the content.
+This project explores the application of **Natural Language Processing (NLP)** techniques to automatically summarize articles and generate multiple-choice questions (MCQs) from the content.
 
 # Key Features:
 

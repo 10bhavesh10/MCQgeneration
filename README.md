@@ -14,8 +14,8 @@ This project explores the application of **Natural Language Processing (NLP)** t
 
 # Usage
 
-- Ensure you have the required dependencies installed, which can be found in the requirements.txt file.
-- Run the app.ipynb script to start the Gradio UI application.
+- Ensure you have the required dependencies installed, which can be found in the [requirements.txt](./requirements.txt) file.
+- Run the [app](./app.ipynb) script to start the *Gradio UI* application.
 - In the web interface, users can enter the text of an article and click the "Generate" button to see the summarized text, extracted keywords, and multiple-choice questions.
 - The UI provides a clean and intuitive layout, allowing users to easily navigate and interact with the NLP-powered features.
 
